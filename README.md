@@ -1,0 +1,2 @@
+# Monte-Carlo-Simulation-Future-Stock-Prices-for-Apple
+In the project, I completed a Monte Carlo simulation of the future stock prices. Using the 12-year Yahoo Finance API historical stock data set for Apple , I generated future random shocks, based on daily volatilities in returns (observed and simulated). All premised on the assumption of normal distribution, I concluded that Apple offers more upside than downward potential. Please see my disclaimer in the Readme section
