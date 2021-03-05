@@ -17,10 +17,10 @@ Using the 12-year Yahoo Finance API historical stock data set for Apple , I gene
 #As there are many more factors (other than historical per cent changes/ random walk), that drive stock prices, 
 #I would be wary of making investment decision/recommendations solely off of Monte Carlo Simulation. 
 #That said, this offers a thorough illustration of the Monte Carlo simulation, as I continue to explore methods and techniques 
-#..for better understanding distribution of possible outcomes of events in different knowledge domains
+#..to better understand distribution of possible outcomes of events in different knowledge domains
 
 # Room for Improvement: 
-I have collected data set that cover a 12- year historical period for this exercise. I believe it would be tremendously valuable to test sensitivities of different ranges 
+I have collected data set that cover a 12-year historical period for this exercise. I believe it would be tremendously valuable to test sensitivities of different ranges 
 
 #Numpy#Random-walk Process#MonteCarloSimulation#LawofLargeNumbers
 
