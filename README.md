@@ -1,6 +1,6 @@
 # Monte-Carlo-Simulation-Future-Stock-Prices-for-Apple
 
-Simply put, Monte Carlo simulation is the simulation of future outcomes of an event. In this exercise, I built the Monte Carlo model to simulate the distribution of possible future prices for Apple for 3000 trials. I was able to uncover some interesting statistics from the simulation
+Simply put, Monte Carlo simulation is the simulation of future outcomes of an event. In this exercise, I built the Monte Carlo model to simulate the distribution of possible future prices for Apple over 3000 trials. I was able to uncover some interesting statistics from the simulation
 
 Using the 12-year Yahoo Finance API historical stock data set for Apple , I generated future random shocks, based on daily volatilities in returns (observed and simulated). All premised on the assumption of normal distribution and using numpy, I concluded that Apple offers more upside than downward potential. 
 
